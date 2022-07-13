@@ -1,0 +1,23 @@
+[
+    {
+        "id": "236d20d4-e10b-4e3e-adda-62365fe582c2",
+        "name": "Fantastic Granite Table",
+        "price": 80,
+        "image": "http://placeimg.com/640/480/food",
+        "qty": 1
+    },
+    {
+        "id": "9f15d5f2-609f-465c-81af-6d883a5cd784",
+        "name": "Practical Wooden Shoes",
+        "price": 20,
+        "image": "http://placeimg.com/640/480/people",
+        "qty": 1
+    },
+    {
+        "id": "ae7dfa96-7bf7-4c91-8147-bb69e3268242",
+        "name": "Unbranded Wooden Bacon",
+        "price": 50,
+        "image": "http://placeimg.com/640/480/cats",
+        "qty": 1
+    }
+]
